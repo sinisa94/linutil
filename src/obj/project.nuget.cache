@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ULdOtjyV9OfScU1Zd1fVMLxH8+45IMViDoZgt68qj1ydaeRVoBvQ7amkQQffhl5c63TpmxF+SZIztjHUgYvXNQ==",
+  "dgSpecHash": "zjPkJIob8I3lGI3dvY/WC0PSVUUg3czvXtBrgcq2eD+FZdubSaiOsz2IN3G598CawVbMqi+J8Q4SWtuVdrLPFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\GitHub\\linutil\\src\\src.csproj",
+  "projectFilePath": "/home/titus/github/linutil/src/src.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\nstack.core\\1.1.1\\nstack.core.1.1.1.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\terminal.gui\\1.17.0\\terminal.gui.1.17.0.nupkg.sha512"
+    "/home/titus/.nuget/packages/nstack.core/1.1.1/nstack.core.1.1.1.nupkg.sha512",
+    "/home/titus/.nuget/packages/system.codedom/8.0.0/system.codedom.8.0.0.nupkg.sha512",
+    "/home/titus/.nuget/packages/system.management/8.0.0/system.management.8.0.0.nupkg.sha512",
+    "/home/titus/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/home/titus/.nuget/packages/terminal.gui/1.17.0/terminal.gui.1.17.0.nupkg.sha512"
   ],
   "logs": []
 }
